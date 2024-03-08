@@ -1,2 +1,2 @@
 # Mydoor
- Over-browser scraper for Nextdoor  
+ Over-the-web scraper for Nextdoor  
